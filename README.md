@@ -1,6 +1,6 @@
 # F1 2022 Championship Data Analysis
 
-![F1 Logo](https://upload.wikimedia.org/wikipedia/en/thumb/3/33/F1.svg/1200px-F1.svg.png)
+![F1 Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/1024px-F1.svg.png)
 
 ## Overview
 
