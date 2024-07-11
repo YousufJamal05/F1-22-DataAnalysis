@@ -10,7 +10,7 @@ This project involves a comprehensive data analysis of the 2022 Formula 1 Champi
 
 - **Kaggle API**: To fetch the dataset directly from Kaggle.
 - **Python Pandas**: For data cleaning and manipulation.
-- **MySQL**: To store the cleaned and perform analysis.
+- **MySQL**: To store the cleaned data and perform analysis.
 - **Tableau**: For data visualization and creating interactive dashboards.
 
 ## Installation
