@@ -18,8 +18,8 @@ This project involves a comprehensive data analysis of the 2022 Formula 1 Champi
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/YousufJamal05/F1_2022_DataAnalysis.git
-    cd F1_2022_DataAnalysis
+    git clone https://github.com/YousufJamal05/F1-22-DataAnalysis.git
+    cd F1-22-DataAnalysis
     ```
 
 ## Contributing
